@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS # kilott az elso tarbol
+SUCCESS # kilott a masodik tarbol (felvaltva)

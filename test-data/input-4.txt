@@ -1,0 +1,3 @@
+#ha failed a kiloves, akkor nem probal meg ujabbat
+GT4500,1,1,1,0
+TORPEDO,SINGLE
