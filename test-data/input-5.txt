@@ -1,0 +1,3 @@
+#osszes kilovese
+GT4500,2,0,1,0
+TORPEDO,ALL
